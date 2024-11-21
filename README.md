@@ -24,3 +24,12 @@ The project involved end-to-end workflow management, including data preparation,
 * Used KPIs and gauge charts to compare performance against historical benchmarks.
 
 # Key findings
+* Brands like Plato, BBB Best and Cormorant achieved high profit margins (>60%) with relatively strong transaction volumes.
+* The USA contributed the highest transaction volume.
+* Weekly revenue trends revealed periods of peak sales, enabling precise planning for promotional campaigns.
+* Dawn Laner (301 transactions) and Ida Rodriguez ($2,235 revenue) were identified as key contributors to revenue.
+* Families with children exhibited different purchasing patterns compared to non-children families.
+* Show the Top 10 popular products and Top 10 return products to help refine inventory management and enhance product offerings.
+
+# Demonstration
+
