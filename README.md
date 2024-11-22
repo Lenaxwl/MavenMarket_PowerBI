@@ -34,3 +34,4 @@ The project involved end-to-end workflow management, including data preparation,
 # Demonstration
 ![Topline](https://github.com/Lenaxwl/MavenMarket_PowerBI/blob/main/Maven_Market_Topline.png)
 ![Customer](https://github.com/Lenaxwl/MavenMarket_PowerBI/blob/main/Maven_Market_Customer.png)
+![Product](https://github.com/Lenaxwl/MavenMarket_PowerBI/blob/main/Maven_Market_Product.png)
