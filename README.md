@@ -32,4 +32,4 @@ The project involved end-to-end workflow management, including data preparation,
 * Show the Top 10 popular products and Top 10 return products to help refine inventory management and enhance product offerings.
 
 # Demonstration
-![MavenMarket_Topline] (https://github.com/Lenaxwl/MavenMarket_PowerBI/blob/main/Maven_Market_Topline.png)
+![Model] (https://github.com/Lenaxwl/MavenMarket_PowerBI/blob/main/Maven_Market_Topline.png)
